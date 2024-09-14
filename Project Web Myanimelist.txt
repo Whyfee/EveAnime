@@ -1,0 +1,10 @@
+Project Web Myanimelist
+
+To-do list:
+1. Bisa menggunakan fitur search
+2. Ada play trailer di setiap anime, mungkin pas cursor mengenai card anime akan muncul  trailernya secara otomatis play video nya
+3. Anime card nya per bagian bisa menggunakan carousel
+4. Ada fitur filter kategori, slice of life, family, etc.
+
+Saran & Kritik:
+
